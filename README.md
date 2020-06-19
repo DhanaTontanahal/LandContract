@@ -21,4 +21,4 @@ Steps FOllowed:
 
 9.)Configure Ethereum Block chain network using AWS Cloud formation templates.
 
-![alt text](https://github.com/DhanaTontanahal/LandContract/private-cloud--for-etherum-block-chain.PNG)
+![alt text](https://github.com/DhanaTontanahal/LandContract/blob/master/private-cloud--for-etherum-block-chain.PNG)
